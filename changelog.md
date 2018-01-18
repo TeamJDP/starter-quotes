@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 
 ## Jan 18, 2018
 ### Added
-- Add a tooltip
+- Add a tooltip @JasonTHChen
 
 ## Jan 17, 2018
 ### Added
