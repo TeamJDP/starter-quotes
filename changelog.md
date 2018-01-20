@@ -3,6 +3,11 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## Jan 20, 2018
+### Changed
+- Fix "A Horse.jpg" image path
+- Fix duplicated images
+
 ## Jan 18, 2018
 ### Added
 - Add a tooltip @JasonTHChen
