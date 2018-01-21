@@ -1,7 +1,14 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [Unreleased]
+## Jan 21, 2018
+### Changed
+- Removed [Unreleased] in changelog
+- Updated homepage.php to include links
+- Updated controllers/Welcome.php with a new show method
+
+### Added
+- actor.php to display only one actor
 
 ## Jan 20, 2018
 ### Changed
