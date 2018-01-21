@@ -6,6 +6,7 @@ All notable changes to this project will be documented in this file.
 - Removed [Unreleased] in changelog
 - Updated homepage.php to include links
 - Updated controllers/Welcome.php with a new show method
+- Formatted views/actors.php
 
 ### Added
 - actor.php to display only one actor
