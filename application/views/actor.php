@@ -6,12 +6,14 @@
 -->
 
 <div class="row">
-    <div class="span4">
+    <div class="text-center">
         <a href="/welcome/show/{key}">
             <img src="/pix/{who}.jpg" title="{who} plays {role}"/>
         </a>
-        Actor: {who}<br>
-        Role: {role}<br>
-        Quote: {what}<br>
+        <hr>
+        <h3>{who}</h3>
+        <h5>Role: {role}</h5>
+        <p>Quote: {what}</p>
+        <hr>
     </div>
 </div>
